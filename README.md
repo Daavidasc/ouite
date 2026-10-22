@@ -1,4 +1,4 @@
-# 🃏 Ouite
+# Ouite
 
 > Juego de cartas para dos jugadores en la consola de Windows, hecho en C++ con cartas dibujadas en caracteres ASCII extendidos y animación de reparto.
 
